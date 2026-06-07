@@ -114,7 +114,7 @@ My approach to Insurance cost prediction involved the following steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Shilpachhatani/Insurance-Cost-Prediction.git
+git clone https://github.com/yashkumar23/Insurance-Cost-Prediction.git
 
 # Navigate into the folder
 cd Insurance-Cost-Prediction
