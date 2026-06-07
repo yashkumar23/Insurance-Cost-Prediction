@@ -130,5 +130,5 @@ Please fork the repository, open an issue, or submit a pull request.
 
 ## 📬 Contact
 
-- GitHub: `Shilpachhatani`
-- Email: `shilpachhatani669@gmail.com`.
+- **GitHub**: `yashkumar23`
+- **Email**: yashchhatani7@gmail.com 
